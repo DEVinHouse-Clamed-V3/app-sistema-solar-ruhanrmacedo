@@ -1,6 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Image, ScrollView } from 'react-native';
-
+import { StyleSheet, Text, View, ScrollView, Image } from 'react-native';
 import planetas from './planetas';
 import Planet from './planet';
 
@@ -23,6 +22,8 @@ export default function App() {
             key={index}
             nome={planeta.nome}
             img={planeta.img}
+            descricaoBreve={planeta.descricaoBreve}  
+            descricao={planeta.descricao}            
             velocidadeOrbitalMediaKmS={planeta.velocidadeOrbitalMediaKmS}
             quantidadeSatelites={planeta.quantidadeSatelites}
             areaSuperficieKm2={planeta.areaSuperficieKm2}
