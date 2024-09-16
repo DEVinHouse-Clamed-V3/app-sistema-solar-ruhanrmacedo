@@ -20,7 +20,7 @@ const planetas = [
         "periodoRotacaoDias": 243
     },
     {
-        "img": "https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg",
+        "img": "https://www.infoescola.com/wp-content/uploads/2008/04/planeta-merc%C3%BArio_60584068.jpg",
         "nome": "Mercúrio",
         "descricaoBreve": "O menor planeta do Sistema Solar.",
         "descricao": "Mercúrio é o planeta mais próximo do Sol. Sua superfície é coberta por crateras e, devido à sua proximidade, experimenta temperaturas extremas.",
@@ -30,7 +30,7 @@ const planetas = [
         "periodoRotacaoDias": 58.6
     },
     {
-        "img": "https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg",
+        "img": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/8465a67d00eda6b73b4485921e5fac7a.jpg",
         "nome": "Marte",
         "descricaoBreve": "Conhecido como o planeta vermelho.",
         "descricao": "Marte tem uma superfície vermelha devido à presença de óxido de ferro. É um dos planetas mais explorados em busca de sinais de vida passada ou presente.",
@@ -40,7 +40,7 @@ const planetas = [
         "periodoRotacaoDias": 1.03
     },
     {
-        "img": "https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg",
+        "img": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2022/09/23/2486_stsci-h-p1936a_1800-768x768-t8cy95b9l8hh.jpeg",
         "nome": "Júpiter",
         "descricaoBreve": "O maior planeta do Sistema Solar.",
         "descricao": "Júpiter é um gigante gasoso com mais de 60 luas. Sua característica mais famosa é a Grande Mancha Vermelha, uma tempestade gigante que dura há séculos.",
@@ -50,7 +50,7 @@ const planetas = [
         "periodoRotacaoDias": 0.41
     },
     {
-        "img": "https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg",
+        "img": "https://s2-galileu.glbimg.com/TjqR0dmFlXy_QebMGJ883zIyxJQ=/0x0:1429x804/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2023/o/M/W3ANtZR06ByTpPoBs5Nw/jwst-nircam-saturn-color-mapped-unannotated-1-.png",
         "nome": "Saturno",
         "descricaoBreve": "Famoso por seus belos anéis.",
         "descricao": "Saturno é o segundo maior planeta do Sistema Solar e tem um extenso sistema de anéis feitos de gelo e rocha. É um gigante gasoso, como Júpiter.",
@@ -60,7 +60,7 @@ const planetas = [
         "periodoRotacaoDias": 0.45
     },
     {
-        "img": "https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg",
+        "img": "https://static.todamateria.com.br/upload/55/2c/552c107117c37-planeta-urano-medium.jpg",
         "nome": "Urano",
         "descricaoBreve": "Um planeta inclinado e gelado.",
         "descricao": "Urano tem uma inclinação axial extrema, o que significa que ele 'rola' de lado enquanto orbita o Sol. Suas temperaturas são incrivelmente baixas e é composto principalmente de gelo e gás.",
@@ -70,7 +70,7 @@ const planetas = [
         "periodoRotacaoDias": 0.72
     },
     {
-        "img": "https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg",
+        "img": "https://img.odcdn.com.br/wp-content/uploads/2023/10/Netuno-Nasa-Unsplash-1.jpg",
         "nome": "Netuno",
         "descricaoBreve": "O planeta mais distante do Sol.",
         "descricao": "Netuno é conhecido por seus ventos extremamente rápidos e atmosfera composta de hidrogênio, hélio e metano. É um gigante gelado, semelhante a Urano.",
@@ -80,7 +80,7 @@ const planetas = [
         "periodoRotacaoDias": 0.67
     },
     {
-        "img": "https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg",
+        "img": "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/pia19952.jpg?w=1900&h=1900",
         "nome": "Plutão",
         "descricaoBreve": "Agora classificado como planeta anão.",
         "descricao": "Plutão era considerado o nono planeta do Sistema Solar até ser reclassificado como planeta anão. Ele tem uma órbita excêntrica e é composto de gelo e rocha.",
