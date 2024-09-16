@@ -1,4 +1,4 @@
-[
+const planetas = [
     {
         "img": "https://segredosdomundo.r7.com/wp-content/uploads/2020/01/planeta-terra-conheca-tudo-sobre-o-nosso-planeta-natal.jpg",
         "nome": "Terra",
@@ -89,4 +89,6 @@
         "velocidadeOrbitalMediaKmS": 4.74,
         "periodoRotacaoDias": 6.39
     }
-]
+];
+
+export default planetas;
